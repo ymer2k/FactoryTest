@@ -1,0 +1,7 @@
+﻿  Monster.cpp
+  MonsterFactory.cpp
+  Orc.cpp
+  Troll.cpp
+  main.cpp
+  Generating Code...
+  FactoryTest.vcxproj -> C:\Users\Jonas\source\repos\FactoryTest\Debug\FactoryTest.exe
